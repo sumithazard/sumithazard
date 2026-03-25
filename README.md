@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Contact: +91 - 8582886222, Email: majumdersumit425@yahoo.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: github.com/sumithazard</h3>
 <p align="left">
 </p>
 
