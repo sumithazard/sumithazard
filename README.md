@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sumit Majumder</h1>
 <h3 align="center">AWS DevOps Engineer</h3>
 
-- 🔭 I’m currently working on **AWS Infrastructure management, Migration, FinOps, DevOps practices & Microservices**
+- 🔭 I’m currently working on **AWS Infrastructure management, Migration, FinOps, Cloud Security best practices, DevOps practices & Microservices**
 
 - 🌱 I’m currently learning **DevOps methodologies**
 
-- 👯 I’m looking to collaborate on **Open projects & Cloud securuty**
+- 👯 I’m looking to collaborate on **Open projects, Cloud Infra management & securuty**
 
 - 💬 Ask me about **AWS & DevOps**
 
